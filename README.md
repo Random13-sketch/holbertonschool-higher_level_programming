@@ -1,0 +1,1 @@
+This repository contains introductive Python tasks.
